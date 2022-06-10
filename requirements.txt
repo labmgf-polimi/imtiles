@@ -1,0 +1,5 @@
+numpy
+sphinx
+opencv
+opencv-python-contrib
+matplotlib
